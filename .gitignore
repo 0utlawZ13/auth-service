@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# creates an virtual environment
+venv/
+.env/
+
+# local environment configuration
+.env
+
+# log files
+*.log
+*.log.*
+
+# ID's configuration
+.vscode/
+.idea/
+
+# Configuración de Docker (si se aplica en el futuro)
+docker-compose.yml
+Dockerfile
